@@ -16,4 +16,22 @@ a {
   text-decoration: none;
   color: white;
 }
-/*# sourceMappingURL=App.css.map */
+
+.Article {
+  color: white;
+  width: 30%;
+  padding-top: 25%;
+  padding-left: 10%;
+  padding-bottom: 25%;
+}
+
+.Article * {
+  margin-bottom: 20px;
+}
+
+.Article a {
+  background-color: #BB7043;
+  padding: 10px 20px;
+  color: black;
+}
+/*# sourceMappingURL=Article.css.map */

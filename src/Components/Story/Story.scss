@@ -1,0 +1,12 @@
+@import '../App.scss';
+
+.Story {
+    background-color: $gback;
+    position: relative;
+    img {
+        width: 55%;
+        position: absolute;
+        right: 0;
+        top: 20%;
+    }
+}

@@ -16,4 +16,26 @@ a {
   text-decoration: none;
   color: white;
 }
-/*# sourceMappingURL=App.css.map */
+
+.Nav {
+  background-color: #312929;
+  padding: 2%;
+  font-family: "Roboto", sans-serif;
+}
+
+.Nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.Nav li {
+  list-style: none;
+}
+
+.Nav .orng {
+  color: #BB7043;
+}
+/*# sourceMappingURL=Nav.css.map */

@@ -1,0 +1,12 @@
+.Hero {
+    background-image: url('../images/Header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    .bigTitle {
+        padding: 15%;
+        text-align: center;
+        color: white;
+        font-size: 40px;
+    }
+}

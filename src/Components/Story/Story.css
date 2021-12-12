@@ -16,4 +16,16 @@ a {
   text-decoration: none;
   color: white;
 }
-/*# sourceMappingURL=App.css.map */
+
+.Story {
+  background-color: #312929;
+  position: relative;
+}
+
+.Story img {
+  width: 55%;
+  position: absolute;
+  right: 0;
+  top: 20%;
+}
+/*# sourceMappingURL=Story.css.map */

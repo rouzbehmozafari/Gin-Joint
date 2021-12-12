@@ -1,0 +1,14 @@
+@import '../../App.scss';
+
+.Cards {
+    *{
+        margin-bottom: 10px;
+    }
+    .date, .dayTime {
+        color: white;
+    }
+    width: 300px;
+    img {
+        width: 300px;
+    }
+}

@@ -1,0 +1,15 @@
+@import '../App.scss';
+
+.Events {
+    background-color: $brown;
+
+    & > p {
+        text-align: center;
+        padding: 10%;
+    }
+    .cardsCont {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}

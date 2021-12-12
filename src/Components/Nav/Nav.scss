@@ -1,0 +1,17 @@
+@import '../App.scss';
+
+.Nav {
+    background-color: $gback;
+    padding: 2%;
+    font-family: $font;
+    ul {
+        display: flex;
+        justify-content: space-around;
+    }
+    li {
+        list-style: none; 
+    } 
+    .orng {
+        color: #BB7043;
+    }
+}

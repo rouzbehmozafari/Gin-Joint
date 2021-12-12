@@ -16,4 +16,20 @@ a {
   text-decoration: none;
   color: white;
 }
-/*# sourceMappingURL=App.css.map */
+
+.Cards {
+  width: 300px;
+}
+
+.Cards * {
+  margin-bottom: 10px;
+}
+
+.Cards .date, .Cards .dayTime {
+  color: white;
+}
+
+.Cards img {
+  width: 300px;
+}
+/*# sourceMappingURL=Cards.css.map */
